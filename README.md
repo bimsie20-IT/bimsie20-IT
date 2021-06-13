@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bimsie20-IT
 - 👀 I’m interested in home automation, and building websites and webapps
 - 🌱 I’m currently learning programming overall
-- 💞️ I’m looking to get my Razer Chroma integratuins featured on Razer's website.
+- 💞️ I’m looking to get my Razer Chroma integrations featured on Razer's website.
 - 📫 How to reach me "edwin.thyse@gmail.com"
 
 <!---
