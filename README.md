@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bimsie20-IT
-- 👀 I’m interested in home automation, and building websites and webapps
+- 👀 I’m interested in home automation, building websites and webapps
 - 🌱 I’m currently learning programming overall
 - 📫 How to reach me "edwin.thyse@gmail.com"
 
